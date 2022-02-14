@@ -1,0 +1,17 @@
+﻿  main.cpp
+E:\GMV\MeshSimplificationMy\display\inputManager.h(76,34): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\GMV\MeshSimplificationMy\display\inputManager.h(76,28): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\GMV\MeshSimplificationMy\MeshSimplification\main.cpp(25,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\GMV\MeshSimplificationMy\MeshSimplification\main.cpp(33,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+MSVCRT.lib(initializers.obj) : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual __thiscall Scene::~Scene(void)" (??1Scene@@UAE@XZ)
+main.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall Scene::resize(int,int,int,int)" (?resize@Scene@@QAEXHHHH@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall Scene::Scene(struct glm::detail::tvec3<float,0>,float,float,float,float)" (??0Scene@@QAE@U?$tvec3@M$0A@@detail@glm@@MMMM@Z)
+display.lib(display.obj) : error LNK2001: 无法解析的外部符号 __imp__glClear@4
+display.lib(display.obj) : error LNK2001: 无法解析的外部符号 __imp__glEnable@4
+display.lib(display.obj) : error LNK2001: 无法解析的外部符号 __imp__glClearColor@16
+glew32s.lib(glew.obj) : error LNK2001: 无法解析的外部符号 __imp__wglGetProcAddress@4
+glew32s.lib(glew.obj) : error LNK2001: 无法解析的外部符号 __imp__glGetString@4
+glew32s.lib(glew.obj) : error LNK2001: 无法解析的外部符号 __imp__wglGetCurrentDC@0
+E:\GMV\MeshSimplificationMy\Release\MeshSimplification.exe : fatal error LNK1120: 9 个无法解析的外部命令

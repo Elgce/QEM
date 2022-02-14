@@ -1,0 +1,39 @@
+﻿  exportobj.cpp
+  importstl.cpp
+  lineMesh.cpp
+  mesh.cpp
+  MeshSimplification.cpp
+E:\GMV\MeshSimplificationMy\engine3D\MeshSimplification.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\MeshSimplification.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\MeshSimplification.cpp(85,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\MeshSimplification.cpp(324,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\GMV\MeshSimplificationMy\engine3D\MeshSimplification.cpp(378,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\MeshSimplification.cpp(450,36): warning C4018: “<”: 有符号/无符号不匹配
+  MovableGLM.cpp
+  obj_loader.cpp
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(20,6): warning C4101: “bla1”: 未引用的局部变量
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(115,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(114,10): warning C4101: “buf”: 未引用的局部变量
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(147,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(210,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(225,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(230,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(446,28): warning C4018: “>”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\obj_loader.cpp(536,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  scene.cpp
+E:\GMV\MeshSimplificationMy\engine3D\shape.h(9,1): warning C4275: 非 dll 接口 class“MovableGLM”用作 dll 接口 class“Shape”的基
+E:\GMV\MeshSimplificationMy\engine3D\MovableGLM.h(5): message : 参见“MovableGLM”的声明
+E:\GMV\MeshSimplificationMy\engine3D\shape.h(8): message : 参见“Shape”的声明
+E:\GMV\MeshSimplificationMy\engine3D\scene.cpp(100,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\GMV\MeshSimplificationMy\engine3D\scene.cpp(103,48): warning C4305: “参数”: 从“double”到“float”截断
+E:\GMV\MeshSimplificationMy\engine3D\scene.cpp(182,61): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\GMV\MeshSimplificationMy\engine3D\scene.cpp(182,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  shader.cpp
+  shape.cpp
+E:\GMV\MeshSimplificationMy\engine3D\shape.h(9,1): warning C4275: 非 dll 接口 class“MovableGLM”用作 dll 接口 class“Shape”的基
+E:\GMV\MeshSimplificationMy\engine3D\MovableGLM.h(5): message : 参见“MovableGLM”的声明
+E:\GMV\MeshSimplificationMy\engine3D\shape.h(8): message : 参见“Shape”的声明
+  texture.cpp
+  正在生成代码...
+  stb_image.c
+  engine3D.vcxproj -> E:\GMV\MeshSimplificationMy\Debug\engine3D.lib

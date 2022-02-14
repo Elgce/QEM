@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\GMV\MeshSimplificationMy - 副本\display\inputManager.h(76,34): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\GMV\MeshSimplificationMy - 副本\display\inputManager.h(76,28): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\GMV\MeshSimplificationMy - 副本\MeshSimplification\main.cpp(25,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\GMV\MeshSimplificationMy - 副本\MeshSimplification\main.cpp(33,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MeshSimplification.vcxproj -> E:\GMV\MeshSimplificationMy - 副本\Debug\MeshSimplification.exe
